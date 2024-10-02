@@ -1,2 +1,7 @@
-# Juan
-ALGORITMOS
+#Hola soy Juan soy desarrollador principante#
+	
+
+
+
+
+	
